@@ -1,0 +1,22 @@
+20
+Indianapolis IN 783612
+Detroit MI 925051
+Washington DC 570898
+Burlington VT 180000
+Houston TX 2009834
+Denver CO 560415
+Philadelphia PA 1492231
+Boston MA 589281
+Charlotte NC 580597
+Columbus OH 725228
+Chicago IL 2886251
+Lansing MI 275326
+Austin TX 671873
+Baltimore MD 638614
+Milwaukee WI 590895
+Seattle WA 570426
+Dallas TX 1211467
+Portland OR 539438
+Toledo OH 371822
+Syracuse NY 460230
+

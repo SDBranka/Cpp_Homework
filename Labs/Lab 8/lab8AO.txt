@@ -1,0 +1,8 @@
+Number of A (or a) on each line: 
+1-   2
+2-   0
+3-   1
+4-   0
+5-   2
+
+Total number of A (or a): 5
